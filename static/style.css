@@ -1,0 +1,20 @@
+
+    body {
+        background: blanchedalmond;
+    }
+    p {
+        color: blue;
+        background: brown;
+    }
+
+    #specific {
+        font-size: 40px;
+    }
+
+    .important {
+        background: brown;
+    }
+
+    h1 {
+        font-size: 80px;
+    }
